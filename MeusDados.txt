@@ -1,4 +1,4 @@
 RA: 918102210   
-Nome: Vinicius Sá   
+Nome: Vinicius Sá
+Data de Nascimento: 21/01/2000
 Email: Blob@gmail.com
-Curso: Sistemas de Informação
